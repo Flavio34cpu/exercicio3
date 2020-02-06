@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> Minha pagina na Web</title>
+</head>
+<body>
+Uma lista de Itens:
+<ul>
+<li>Primmeiro item da manutenção</li>
+<li>Segundo item da manutençao</li>
+<li>Terceiro item da manutenção</li>
+</ul>
+Segunda lista de Itens:
+<ol>
+<li>Primeiro item da lista</li>
+<li>Segundo item da lista</li>
+<li>Terceiro item da lista</li>
+</ol>
+</body>
+</html>
